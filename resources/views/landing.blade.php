@@ -63,7 +63,7 @@
                             </ul>
                         </li>
                         <li class="nav-item d-none d-md-block">
-                            <a href="#" class="btn btn-sm btn-primary rounded-pill">Login</a>
+                            <a href="/login" class="btn btn-sm btn-primary rounded-pill">Login</a>
                         </li>
                         <li class="nav-item d-lg-none">
                             <button class="hamburger offcanvas-nav-btn"><span></span></button>
