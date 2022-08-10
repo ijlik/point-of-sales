@@ -396,7 +396,7 @@
         <div class="row gy-6 gy-lg-0">
             <div class="col-md-4 col-lg-3">
                 <div class="widget">
-                    <img class="mb-4" src="assets/img/logo-light.png" srcset="assets/img/logo-light@2x.png 2x" alt="" />
+                    <img class="mb-4" src="assets/img/logo-light.png" srcset="assets/img/logo-light@2x.png 2x" height="40px" width="auto" alt="" />
                     <p class="mb-4">© 2022 Karapan. <br class="d-none d-lg-block" />All rights reserved.</p>
 
                     <!-- /.social -->
