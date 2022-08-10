@@ -16,11 +16,11 @@ class SettingTableSeeder extends Seeder
     {
         DB::table('setting')->insert([
             'id_setting' => 1,
-            'nama_perusahaan' => 'Toko Jujur dan Adil',
+            'nama_perusahaan' => 'Karapan',
             'alamat' => 'Jl. Pancursari Rt 3 RW 1 Desa Benculuk Kecamatan Cluring',
             'telepon' => '085155187441',
             'tipe_nota' => 1, // kecil
-            'diskon' => 5,
+            'diskon' => 0,
             'path_logo' => '/img/logo.png',
             'path_kartu_member' => '/img/member.png',
         ]);

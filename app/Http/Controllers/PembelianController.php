@@ -19,7 +19,7 @@ class PembelianController extends Controller
 
     public function data()
     {
-        $pembelian = Pembelian::orderBy('id_pembelian', 'desc')->get();
+        $pembelian = Pembelian::where('total_harga', '<>', 0)->orderBy('id_pembelian', 'desc')->get();
 
         return datatables()
             ->of($pembelian)
