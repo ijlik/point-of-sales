@@ -8,10 +8,10 @@
     <meta name="keywords" content="bootstrap 5, business, corporate, creative, gulp, marketing, minimal, modern, multipurpose, one page, responsive, saas, sass, seo, startup, html5 template, site template">
     <meta name="author" content="elemis">
     <title>Karapan Business Network</title>
-    <link rel="shortcut icon" href="/assets/img/favicon.png">
-    <link rel="stylesheet" href="/assets/css/plugins.css">
-    <link rel="stylesheet" href="/assets/css/style.css">
-    <link rel="stylesheet" href="/assets/css/colors/yellow.css">
+    <link rel="shortcut icon" href="assets/img/favicon.png">
+    <link rel="stylesheet" href="assets/css/plugins.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/colors/yellow.css">
 </head>
 
 <body class="onepage" data-bs-spy="scroll" data-bs-target=".navbar-collapse .navbar-nav">
@@ -21,7 +21,7 @@
             <div class="container flex-lg-row flex-nowrap align-items-center">
                 <div class="navbar-brand w-100">
                     <a href="#">
-                        <img src="/assets/img/logo.png" srcset="/assets/img/logo-dark@2x.png 2x" alt="" />
+                        <img src="assets/img/logo.png" srcset="assets/img/logo-dark@2x.png 2x" alt="" />
                     </a>
                 </div>
                 <div class="navbar-collapse offcanvas offcanvas-nav offcanvas-start">
@@ -94,7 +94,7 @@
             <!-- /.row -->
             <div class="position-relative">
                 <div class="shape bg-dot primary rellax w-17 h-21" data-rellax-speed="1" style="top: -2.5rem; right: -2.7rem;"></div>
-                <figure class="rounded mb-md-n20"><img src="/assets/img/about18.jpg" srcset="/assets/img/about18.jpg 2x" alt="" /></figure>
+                <figure class="rounded mb-md-n20"><img src="assets/img/about18.jpg" srcset="assets/img/about18.jpg 2x" alt="" /></figure>
             </div>
         </div>
         <!-- /.container -->
@@ -114,21 +114,21 @@
             <!-- /.row -->
             <ul class="nav nav-tabs nav-tabs-bg nav-tabs-shadow-lg d-flex justify-content-between nav-justified flex-lg-row flex-column">
                 <li class="nav-item"> <a class="nav-link d-flex flex-row active" data-bs-toggle="tab" href="#tab2-1">
-                        <div><img src="/assets/img/icons/lineal/farmer.png" class="svg-inject icon-svg icon-svg-md text-yellow me-4" alt="" /></div>
+                        <div><img src="assets/img/icons/lineal/farmer.png" class="svg-inject icon-svg icon-svg-md text-yellow me-4" alt="" /></div>
                         <div>
                             <h4 class="mb-1">Trade Management Solution</h4>
                             <p>Karapan provide the operating system for agriculture local traders</p>
                         </div>
                     </a> </li>
                 <li class="nav-item"> <a class="nav-link d-flex flex-row" data-bs-toggle="tab" href="#tab2-2">
-                        <div><img src="/assets/img/icons/lineal/agent.png" class="svg-inject icon-svg icon-svg-md text-green me-4" alt="" /></div>
+                        <div><img src="assets/img/icons/lineal/agent.png" class="svg-inject icon-svg icon-svg-md text-green me-4" alt="" /></div>
                         <div>
                             <h4 class="mb-1">Procurement Solution</h4>
                             <p>Sources smarter, faster and cheaper with Karapan agriculture RFQ.</p>
                         </div>
                     </a> </li>
                 <li class="nav-item"> <a class="nav-link d-flex flex-row" data-bs-toggle="tab" href="#tab2-3">
-                        <div><img src="/assets/img/icons/lineal/shopping.png" class="svg-inject icon-svg icon-svg-md text-red me-4" alt="" /></div>
+                        <div><img src="assets/img/icons/lineal/shopping.png" class="svg-inject icon-svg icon-svg-md text-red me-4" alt="" /></div>
                         <div>
                             <h4 class="mb-1">No-code Ecommerce Builder</h4>
                             <p>Shopify for Hyperlocal food ecommerce platform</p>
@@ -142,13 +142,13 @@
                         <div class="col-lg-6">
                             <div class="row gx-md-5 gy-5">
                                 <div class="col-6">
-                                    <img class="img-fluid rounded shadow-lg mb-5" src="/assets/img/photos/sa5.jpg" srcset="/assets/img/sa5@2x.jpg 2x" alt="" />
-                                    <img class="img-fluid rounded shadow-lg d-flex col-10 ms-auto" src="/assets/img/photos/sa6.jpg" srcset="/assets/img/sa6@2x.jpg 2x" alt="" />
+                                    <img class="img-fluid rounded shadow-lg mb-5" src="assets/img/photos/sa5.jpg" srcset="assets/img/sa5@2x.jpg 2x" alt="" />
+                                    <img class="img-fluid rounded shadow-lg d-flex col-10 ms-auto" src="assets/img/photos/sa6.jpg" srcset="assets/img/sa6@2x.jpg 2x" alt="" />
                                 </div>
                                 <!-- /column -->
                                 <div class="col-6">
-                                    <img class="img-fluid rounded shadow-lg my-5" src="/assets/img/photos/sa7.jpg" srcset="/assets/img/sa7@2x.jpg 2x" alt="" />
-                                    <img class="img-fluid rounded shadow-lg d-flex col-10" src="/assets/img/photos/sa8.jpg" srcset="/assets/img/sa8@2x.jpg 2x" alt="" />
+                                    <img class="img-fluid rounded shadow-lg my-5" src="assets/img/photos/sa7.jpg" srcset="assets/img/sa7@2x.jpg 2x" alt="" />
+                                    <img class="img-fluid rounded shadow-lg d-flex col-10" src="assets/img/photos/sa8.jpg" srcset="assets/img/sa8@2x.jpg 2x" alt="" />
                                 </div>
                                 <!-- /column -->
                             </div>
@@ -175,13 +175,13 @@
                         <div class="col-lg-6 order-lg-2">
                             <div class="row gx-md-5 gy-5">
                                 <div class="col-5">
-                                    <img class="img-fluid rounded shadow-lg my-5 d-flex ms-auto" src="/assets/img/photos/sa9.jpg" srcset="/assets/img/sa9@2x.jpg 2x" alt="" />
-                                    <img class="img-fluid rounded shadow-lg d-flex col-10 ms-auto" src="/assets/img/photos/sa10.jpg" srcset="/assets/img/sa10@2x.jpg 2x" alt="" />
+                                    <img class="img-fluid rounded shadow-lg my-5 d-flex ms-auto" src="assets/img/photos/sa9.jpg" srcset="assets/img/sa9@2x.jpg 2x" alt="" />
+                                    <img class="img-fluid rounded shadow-lg d-flex col-10 ms-auto" src="assets/img/photos/sa10.jpg" srcset="assets/img/sa10@2x.jpg 2x" alt="" />
                                 </div>
                                 <!-- /column -->
                                 <div class="col-7">
-                                    <img class="img-fluid rounded shadow-lg mb-5" src="/assets/img/photos/sa11.jpg" srcset="/assets/img/sa11@2x.jpg 2x" alt="" />
-                                    <img class="img-fluid rounded shadow-lg d-flex col-11" src="/assets/img/photos/sa12.jpg" srcset="/assets/img/sa12@2x.jpg 2x" alt="" />
+                                    <img class="img-fluid rounded shadow-lg mb-5" src="assets/img/photos/sa11.jpg" srcset="assets/img/sa11@2x.jpg 2x" alt="" />
+                                    <img class="img-fluid rounded shadow-lg d-flex col-11" src="assets/img/photos/sa12.jpg" srcset="assets/img/sa12@2x.jpg 2x" alt="" />
                                 </div>
                                 <!-- /column -->
                             </div>
@@ -208,12 +208,12 @@
                         <div class="col-lg-6">
                             <div class="row gx-md-5 gy-5 align-items-center">
                                 <div class="col-6">
-                                    <img class="img-fluid rounded shadow-lg d-flex ms-auto" src="/assets/img/photos/sa13.jpg" srcset="/assets/img/sa13@2x.jpg 2x" alt="" />
+                                    <img class="img-fluid rounded shadow-lg d-flex ms-auto" src="assets/img/photos/sa13.jpg" srcset="assets/img/sa13@2x.jpg 2x" alt="" />
                                 </div>
                                 <!-- /column -->
                                 <div class="col-6">
-                                    <img class="img-fluid rounded shadow-lg mb-5" src="/assets/img/photos/sa14.jpg" srcset="/assets/img/sa14@2x.jpg 2x" alt="" />
-                                    <img class="img-fluid rounded shadow-lg d-flex col-10" src="/assets/img/photos/sa15.jpg" srcset="/assets/img/sa15@2x.jpg 2x" alt="" />
+                                    <img class="img-fluid rounded shadow-lg mb-5" src="assets/img/photos/sa14.jpg" srcset="assets/img/sa14@2x.jpg 2x" alt="" />
+                                    <img class="img-fluid rounded shadow-lg d-flex col-10" src="assets/img/photos/sa15.jpg" srcset="assets/img/sa15@2x.jpg 2x" alt="" />
                                 </div>
                                 <!-- /column -->
                             </div>
@@ -243,7 +243,7 @@
     </section>
     <!-- /section -->
     <section id="process" class="wrapper bg-gray position-relative min-vh-60 d-lg-flex align-items-center">
-        <div class="col-lg-6 position-lg-absolute top-0 start-0 image-wrapper bg-image bg-cover h-100" data-image-src="/assets/img/bg38.jpg">
+        <div class="col-lg-6 position-lg-absolute top-0 start-0 image-wrapper bg-image bg-cover h-100" data-image-src="assets/img/bg38.jpg">
             <div class="divider text-gray divider-v-end d-none d-lg-block">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 1200">
                     <g />
@@ -264,7 +264,7 @@
                         <h3 class="display-3 ls-sm mb-7">We prioritize farmers who practiced :</h3>
                         <div class="d-flex flex-row mb-5">
                             <div>
-                                <img src="/assets/img/cow.png" class="svg-inject icon-svg icon-svg-md text-blue me-5 mt-1" alt="" />
+                                <img src="assets/img/cow.png" class="svg-inject icon-svg icon-svg-md text-blue me-5 mt-1" alt="" />
                             </div>
                             <div>
                                 <h4 class="fs-20 ls-sm">1. Holistic Management</h4>
@@ -273,7 +273,7 @@
                         </div>
                         <div class="d-flex flex-row mb-5">
                             <div>
-                                <img src="/assets/img/grain.png" class="svg-inject icon-svg icon-svg-md text-green me-5 mt-1" alt="" />
+                                <img src="assets/img/grain.png" class="svg-inject icon-svg icon-svg-md text-green me-5 mt-1" alt="" />
                             </div>
                             <div>
                                 <h4 class="fs-20 ls-sm">2. No-Till Farming</h4>
@@ -282,7 +282,7 @@
                         </div>
                         <div class="d-flex flex-row">
                             <div>
-                                <img src="/assets/img/bact.png" class="svg-inject icon-svg icon-svg-md text-yellow me-5 mt-1" alt="" />
+                                <img src="assets/img/bact.png" class="svg-inject icon-svg icon-svg-md text-yellow me-5 mt-1" alt="" />
                             </div>
                             <div>
                                 <h4 class="fs-20 ls-sm">3. Feed Addictive</h4>
@@ -306,13 +306,13 @@
                     <div class="shape bg-dot primary rellax w-18 h-18" data-rellax-speed="1" style="top: 0; left: -1.4rem; z-index: 0;"></div>
                     <div class="row gx-md-5 gy-5">
                         <div class="col-md-6" data-cue="fadeIn">
-                            <figure class="rounded mt-md-10 position-relative"><img src="/assets/img/photos/g5.jpg" srcset="/assets/img/g5@2x.jpg 2x" alt=""></figure>
+                            <figure class="rounded mt-md-10 position-relative"><img src="assets/img/photos/g5.jpg" srcset="assets/img/g5@2x.jpg 2x" alt=""></figure>
                         </div>
                         <!--/column -->
                         <div class="col-md-6">
                             <div class="row gx-md-5 gy-5">
                                 <div class="col-md-12 order-md-2" data-cue="fadeIn" data-delay="900">
-                                    <figure class="rounded"><img src="/assets/img/photos/g6.jpg" srcset="/assets/img/g6@2x.jpg 2x" alt=""></figure>
+                                    <figure class="rounded"><img src="assets/img/photos/g6.jpg" srcset="assets/img/g6@2x.jpg 2x" alt=""></figure>
                                 </div>
                                 <!--/column -->
                                 <div class="col-md-10" data-cue="fadeIn" data-delay="300">
@@ -396,7 +396,7 @@
         <div class="row gy-6 gy-lg-0">
             <div class="col-md-4 col-lg-3">
                 <div class="widget">
-                    <img class="mb-4" src="/assets/img/logo-light.png" srcset="/assets/img/logo-light@2x.png 2x" alt="" />
+                    <img class="mb-4" src="assets/img/logo-light.png" srcset="assets/img/logo-light@2x.png 2x" alt="" />
                     <p class="mb-4">© 2022 Karapan. <br class="d-none d-lg-block" />All rights reserved.</p>
 
                     <!-- /.social -->
@@ -467,8 +467,8 @@
         <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
     </svg>
 </div>
-<script src="/assets/js/plugins.js"></script>
-<script src="/assets/js/theme.js"></script>
+<script src="assets/js/plugins.js"></script>
+<script src="assets/js/theme.js"></script>
 </body>
 
 </html>
