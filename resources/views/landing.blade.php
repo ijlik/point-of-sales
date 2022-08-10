@@ -21,7 +21,7 @@
             <div class="container flex-lg-row flex-nowrap align-items-center">
                 <div class="navbar-brand w-100">
                     <a href="#">
-                        <img src="assets/img/logo.png" srcset="assets/img/logo-dark@2x.png 2x" alt="" />
+                        <img src="assets/img/logo.png" srcset="assets/img/logo-dark@2x.png 2x" height="40px" width="auto" alt="" />
                     </a>
                 </div>
                 <div class="navbar-collapse offcanvas offcanvas-nav offcanvas-start">
