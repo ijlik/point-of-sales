@@ -29,7 +29,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function (){
-    return view('landing');
+    return redirect('/login');
 });
 Route::get('/home', function (){
    return redirect('/dashboard');
