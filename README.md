@@ -35,7 +35,7 @@ Aplikasi POS atau point of sales adalah aplikasi yang digunakan untuk mengelola 
 ## Instalasi
 #### Via Git
 ```bash
-git clone https://github.com/sandinur157/tuturial-membuat-aplikasi-point-of-sales.git
+git clone git@github.com:ijlik/point-of-sales.git
 ```
 
 ### Download ZIP
